@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961599020661",
+    "project_id": "hematoplay-c1a3e",
+    "storage_bucket": "hematoplay-c1a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961599020661:android:e073f4f21e203d934a623c",
+        "android_client_info": {
+          "package_name": "com.ufcspa.hematoplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-di5jsPbPALI_HQtbAUdExEkVd5W2rWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
